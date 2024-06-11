@@ -1,0 +1,54 @@
+{
+  "Addfood": [
+    {
+      "menu": "FastFood",
+      "img": "https://media.istockphoto.com/id/1309352410/photo/cheeseburger-with-tomato-and-lettuce-on-wooden-board.jpg?s=612x612&w=0&k=20&c=lfsA0dHDMQdam2M1yvva0_RXfjAyp4gyLtx4YUJmXgg=",
+      "qty": "1",
+      "oldprice": "140",
+      "newprice": "120",
+      "description": "Best Burger",
+      "date": "2024-06-11",
+      "id": "3cf0"
+    },
+    {
+      "id": "cbb0",
+      "menu": "Breakfast",
+      "img": "https://www.wholesomeyum.com/wp-content/uploads/2017/03/wholesomeyum-Low-Carb-Keto-Pancakes-Recipe-21-500x375.jpg",
+      "qty": "3",
+      "oldprice": "180",
+      "newprice": "130",
+      "description": "Best PanCakes",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "96e2",
+      "menu": "Drinks",
+      "img": "https://www.spoton.com/blog/content/images/size/w1200/2023/08/Mocktail--zero-proof-cocktails--and-different-non-alcoholic-drinks.jpeg",
+      "qty": "4",
+      "oldprice": "80",
+      "newprice": "50",
+      "description": "Best Mocktails You Will FInd Ever",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "3885",
+      "menu": "Alcohol",
+      "img": "https://imageio.forbes.com/specials-images/imageserve/660c50ae1421edeaf392d1ac/Four-reasons-red-wine-is-no-longer-a-health-food/0x0.jpg?format=jpg&crop=3500,3501,x0,y509,safe&width=960",
+      "qty": "5",
+      "oldprice": "60",
+      "newprice": "30",
+      "description": "Best Vine In The World",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "9bdf",
+      "menu": "Lunch",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/6/ZP/TZ/IK/144143379/lunch-food-services-500x500.jpg",
+      "qty": "10",
+      "oldprice": "200",
+      "newprice": "150",
+      "description": "Best Gujarati Thali",
+      "date": "2024-06-12"
+    }
+  ]
+}
